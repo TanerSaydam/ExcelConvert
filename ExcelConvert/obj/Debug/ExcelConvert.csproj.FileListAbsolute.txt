@@ -1,0 +1,10 @@
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\bin\Debug\ExcelConvert.exe.config
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\bin\Debug\ExcelConvert.exe
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\bin\Debug\ExcelConvert.pdb
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.csproj.AssemblyReference.cache
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.ExcelConvert.resources
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.Properties.Resources.resources
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.csproj.GenerateResource.cache
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.exe
+C:\Users\taner\source\repos\ExcelConvert\ExcelConvert\obj\Debug\ExcelConvert.pdb
